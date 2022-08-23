@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+.main {
+	margin: 0 auto;
+	background: #CFC6C7;
+	width: 900px;
+    font-size: 26px;
+	padding: 50px 30px;
+}
+.main h2 {
+	padding: 10px;
+	margin: 20px;
+}
+.Photoshop h2 {
+	font-size: 20px;
+	color: #727272;
+	
+}
+.main .line {
+	width: 800px;
+	height: 5px;
+	background:#727272;
+	padding: 0 48px;
+	position: relative;
+}
+.main .line:before {
+	position: absolute;
+	content: "";
+	width: 700px;
+	height: 5px;
+	background: #090657;
+	left: 0px;
+	
+}

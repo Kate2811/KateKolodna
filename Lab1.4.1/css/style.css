@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	padding: 0;
+	margin: 0;
+}
+.box_1 {
+	text-align: center;
+	width: 1200px;
+	margin: 0px auto;
+}
+.parent_box {
+	background: #981EE9;
+	background-size: cover;
+	background-repeat: no-repeat;
+	}
+.box_1 h2 {
+	text-align: center;
+	text-decoration: underline;
+	color: white;
+	font-family: 'open_sansbold';
+	font-size: 25px;
+	padding-bottom: 10px;
+} 
+.box_1 p {
+	text-align: justify;
+	padding-bottom: 20px;
+	font-size: 20px;
+	font-family: 'open_sansregular';
+}
+.img {
+	background: url("../img/rm251-aum-13-g.jpg") no-repeat center / cover;
+	padding: 200px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+font-family: 'open_sansbold';
+font-family: 'open_sansbold_italic';
+font-family: 'open_sansextrabold';
+font-family: 'open_sansextrabold_italic';
+font-family: 'open_sansitalic';
+font-family: 'open_sanslight';
+font-family: 'open_sanslight_italic';
+font-family: 'open_sansregular';
+font-family: 'open_sanssemibold';
+font-family: 'open_sanssemibold_italic';*/
